@@ -26,7 +26,7 @@ void inic(char arr1[a][b])
 	{
 		for (size_t j = 0; j < b; j++)
 		{
-			arr1[i][j] = (char)46;
+			arr1[i][j] =   (char)46;
 		}
 	}
 }
